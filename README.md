@@ -13,7 +13,7 @@
 
 - 👨‍💻Checkout my website [https://heenadollyjain14.wixsite.com/photophile](https://heenadollyjain14.wixsite.com/photophile)
 
-- 📫 How to reach me **heenadollyjain@gmail.com**
+- 📫 How to reach me **heenadollyjain14@gmail.com**
 
 - ⚡ Who am I? **Just a kid with creative/innovative ideas! :)**
 
