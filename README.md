@@ -1,5 +1,5 @@
-[![MasterHead](https://c4.wallpaperflare.com/wallpaper/70/220/916/technology-binary-numbers-code-wallpaper-thumb.jpg)]
-<h1 align="center">Hey there 👋, Heena here</h1>
+![MasterHead](https://c4.wallpaperflare.com/wallpaper/70/220/916/technology-binary-numbers-code-wallpaper-thumb.jpg)
+<h1 align="center">Hey 👋, It's Heena </h1>
 <h3 align="center">I'm a programmer</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/93/74/bd/9374bd8bf5a9d33c8e3ee4dc22dbe994.jpg">
 
