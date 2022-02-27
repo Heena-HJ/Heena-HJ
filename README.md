@@ -1,4 +1,4 @@
-![MasterHead](https://c4.wallpaperflare.com/wallpaper/70/220/916/technology-binary-numbers-code-wallpaper-thumb.jpg)
+![MasterHead](https://camo.githubusercontent.com/0675dd4ca0cc32aba237e6952f9579fb1fef45a843555d9addb7cb283b61f8cf/687474703a2f2f77696e74657262652e636f6d2f696d6167652f6d61747269782d6861732d796f752e676966)
 <h1 align="center">Hey 👋, It's Heena </h1>
 <h3 align="center">I'm a programmer</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/93/74/bd/9374bd8bf5a9d33c8e3ee4dc22dbe994.jpg">
